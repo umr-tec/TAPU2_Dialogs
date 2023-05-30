@@ -1,0 +1,11 @@
+C:\Users\ulise\source\repos\TAPU2_Dialogs\bin\Debug\TAPU2_Dialogs.exe.config
+C:\Users\ulise\source\repos\TAPU2_Dialogs\bin\Debug\TAPU2_Dialogs.exe
+C:\Users\ulise\source\repos\TAPU2_Dialogs\bin\Debug\TAPU2_Dialogs.pdb
+C:\Users\ulise\source\repos\TAPU2_Dialogs\obj\Debug\TAPU2_Dialogs.csproj.AssemblyReference.cache
+C:\Users\ulise\source\repos\TAPU2_Dialogs\obj\Debug\TAPU2_Dialogs.Form1.resources
+C:\Users\ulise\source\repos\TAPU2_Dialogs\obj\Debug\TAPU2_Dialogs.Properties.Resources.resources
+C:\Users\ulise\source\repos\TAPU2_Dialogs\obj\Debug\TAPU2_Dialogs.csproj.GenerateResource.cache
+C:\Users\ulise\source\repos\TAPU2_Dialogs\obj\Debug\TAPU2_Dialogs.csproj.CoreCompileInputs.cache
+C:\Users\ulise\source\repos\TAPU2_Dialogs\obj\Debug\TAPU2_Dialogs.exe
+C:\Users\ulise\source\repos\TAPU2_Dialogs\obj\Debug\TAPU2_Dialogs.pdb
+C:\Users\ulise\source\repos\TAPU2_Dialogs\obj\Debug\TAPU2_Dialogs.Form2.resources
